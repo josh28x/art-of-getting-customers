@@ -7,6 +7,9 @@ customers to find
 
 
 customers to avoid
- - 
+ -
+
+ core principles:
+ - gain 10k by making products for companies that avoid them having to hire 200k devs to build such a product
 
 """
